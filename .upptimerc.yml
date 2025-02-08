@@ -5,6 +5,10 @@ repo: uptime # The name of this repository
 sites:
   - name: Sumathi
     url: https://sumathi.dev
+  - name: Iverilog
+    url: https://iverilog.sumathi.dev
+  - name: BEIverilog
+    url: https://locbeiverilog.sumathi.dev
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
