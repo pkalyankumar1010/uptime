@@ -9,6 +9,10 @@ sites:
     url: https://iverilog.sumathi.dev
   - name: BEIverilog
     url: https://locbeiverilog.sumathi.dev/api/swagger/
+  - name: Snake
+    url: https://snake.sumathi.dev
+  - name: Electron
+    url: https://vite.sumathi.dev
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
