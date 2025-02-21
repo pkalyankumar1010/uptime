@@ -1,7 +1,7 @@
 url: https://locbeiverilog.sumathi.dev/api/swagger/
-status: up
-code: 200
-responseTime: 971
-lastUpdated: 2025-02-21T07:45:41.998Z
+status: down
+code: 502
+responseTime: 1381
+lastUpdated: 2025-02-21T12:16:24.798Z
 startTime: 2025-02-08T14:25:59.591Z
 generator: Upptime <https://github.com/upptime/upptime>
