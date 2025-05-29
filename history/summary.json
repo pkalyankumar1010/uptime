@@ -33,9 +33,9 @@
     "url": "https://blog.sumathi.dev",
     "icon": "https://icons.duckduckgo.com/ip3/blog.sumathi.dev.ico",
     "slug": "suma-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -44,7 +44,9 @@
     "timeWeek": 296,
     "timeMonth": 302,
     "timeYear": 313,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-29": 0
+    }
   },
   {
     "name": "Iverilog",
@@ -70,18 +72,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/locbeiverilog.sumathi.dev.ico",
     "slug": "be-iverilog",
     "status": "down",
-    "uptime": "3.88%",
+    "uptime": "3.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "3.88%",
+    "uptimeYear": "3.85%",
     "time": 516,
     "timeDay": 154,
     "timeWeek": 122,
     "timeMonth": 136,
     "timeYear": 516,
     "dailyMinutesDown": {
-      "2025-05-29": 125,
+      "2025-05-29": 1057,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
       "2025-05-26": 1440,
