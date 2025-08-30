@@ -4,9 +4,9 @@
     "url": "https://sumathi.dev",
     "icon": "https://icons.duckduckgo.com/ip3/sumathi.dev.ico",
     "slug": "sumathi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.23%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "97.47%",
@@ -16,6 +16,7 @@
     "timeMonth": 551,
     "timeYear": 368,
     "dailyMinutesDown": {
+      "2025-08-30": 0,
       "2025-08-27": 20,
       "2025-08-26": 35,
       "2025-08-25": 23,
@@ -96,7 +97,7 @@
     "timeMonth": 172,
     "timeYear": 400,
     "dailyMinutesDown": {
-      "2025-08-30": 112,
+      "2025-08-30": 281,
       "2025-08-29": 1440,
       "2025-08-28": 1440,
       "2025-08-27": 1440,
