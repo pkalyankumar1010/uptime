@@ -43,9 +43,9 @@
     "url": "https://blog.sumathi.dev",
     "icon": "https://icons.duckduckgo.com/ip3/blog.sumathi.dev.ico",
     "slug": "suma-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -55,6 +55,7 @@
     "timeMonth": 651,
     "timeYear": 615,
     "dailyMinutesDown": {
+      "2025-10-30": 0,
       "2025-07-23": 27,
       "2025-07-15": 47,
       "2025-07-14": 7,
@@ -100,7 +101,7 @@
     "timeMonth": 122,
     "timeYear": 380,
     "dailyMinutesDown": {
-      "2025-10-30": 125,
+      "2025-10-30": 941,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
       "2025-10-27": 1440,
